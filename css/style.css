@@ -29,7 +29,7 @@ header{
 section{
     margin-top: 30px;
 }
-/* /section */
+/* /Section */
 
 /* Prima Section */
 .logo{
@@ -54,10 +54,27 @@ font-size: 40px;
 /* /Seconda Section */
 
 /* Terza Section */
-.bio-uno{
-padding: 10px 0px;
-}
 .span-yellow{
     background-color: yellow;
 }
 /* /Terza Section */
+
+/* Quinta Section */
+    table{
+        width: 1500px;
+        text-align:left;
+    }
+
+   .t-big{
+    width: 70%;
+   }
+
+    thead{
+        background-color: #20a9e5;
+        color: white;
+    }
+    .blue{
+        background-color: #97c6da;
+
+    }
+/* /Quinta Section */
