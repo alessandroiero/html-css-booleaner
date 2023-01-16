@@ -78,3 +78,29 @@ font-size: 40px;
 
     }
 /* /Quinta Section */
+
+/* Footer */
+footer{
+    margin-top:20px ;
+}
+.footer-bio{
+    color: grey;
+    font-size: 20px;
+}
+.bio-footer-img{
+    color: white;
+    margin: 20px;
+}
+.img-uno{
+    height: 250px;
+    width: 250px;
+    background-image: url(../img/monitor.jpg);
+    
+}
+.img-due{
+    height: 250px;
+    width: 250px;
+    background-image: url(../img/graph.jpg);
+    
+}
+/* /Footer */
