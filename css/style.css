@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+   margin: 0;
     font-family: 'Roboto', sans-serif;
 
 }
@@ -17,9 +17,17 @@ header{
 }
 /* Fine Header */
 
+/* Contenitore pagina */
+.contenitore-pagina{
+    margin: auto;
+    width: 1400px;
+    padding:10px
+}
+/* Contenitore Pagina */
+
 /* Prima Section */
-main,.logo{
-    margin: 30px 250px;
+.logo{
+    margin:30px 260px;
 }
 .contenitore-titolo{
 font-size: 40px;
