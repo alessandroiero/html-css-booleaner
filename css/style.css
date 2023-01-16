@@ -1,5 +1,7 @@
 *{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 /* Header */
@@ -12,6 +14,21 @@ header{
 
 .logo{
     width: 200px;
-    margin: 30px 200px;
 }
 /* Fine Header */
+
+/* Prima Section */
+main,.logo{
+    margin: 30px 250px;
+}
+.contenitore-titolo{
+font-size: 40px;
+}
+.contenitore-autore{
+    font-size: small;
+    color: grey;
+}
+.autore{
+    color: #4ea0ff;
+}
+/* Fine Prima Section */
