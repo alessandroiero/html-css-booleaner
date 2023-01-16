@@ -46,3 +46,12 @@ font-size: 40px;
     font-size: small;
 }
 /* /Seconda Section */
+
+/* Terza Section */
+.bio-uno{
+padding: 10px 0px;
+}
+.span-yellow{
+    background-color: yellow;
+}
+/* /Terza Section */
